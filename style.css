@@ -43,7 +43,7 @@ main{
         display: flex;
         flex-direction: row;
         margin-inline: 15vw;
-        margin-block: 150px;
+        margin-top: 160px;
     }
 }
 
